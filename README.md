@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SomnathMalik2021
-- 👀 I’m interested in full stack devlopment
+- 👀 I’m interested in full stack devlopment and Machine learning
 - 🌱 I’m currently learning python,JavaScript,React
 - 💞️ I’m looking to collaborate on any open project
 - 📫 How to reach me www.linkedin.com/in/somnath-malik-a9a11117b
